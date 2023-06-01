@@ -12,7 +12,7 @@ Atualmente estou estudando e criando projetos em:
 Social:
 <br>
 <br>
-<a href="https://www.instagram.com/biiiel_araujo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="insta-logo" /></a>
+<a href="https://www.instagram.com/biiiel_araujo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="insta-logo" /></a>
 <a href="https://www.linkedin.com/in/gabriel-de-araujo-rodrigues-4201b7157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <br>
